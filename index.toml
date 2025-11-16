@@ -81,11 +81,6 @@ hash = "bfefb0134a8a0a36d13e7370f56d99017feba7b759ecca019679a051f87ef079"
 metafile = true
 
 [[files]]
-file = "mods/artifacts.pw.toml"
-hash = "d98e33b7326fa9f920adb6dc4e0004b899b967ea82ba6658b2c032e29f5dea95"
-metafile = true
-
-[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "1911b9f2bc9debccc66d7762932f66975f111695df46168fa80a628d31b0cbed"
 metafile = true
@@ -768,6 +763,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "49649fc114ce9c2d2c7adc7e8f52a8e70d501ed02500f354411a284119dd017b"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "3f092115f91d9900395b2eab5105d73adbaa37fe4cbcf26cb1c743d2e9baa4b8"
 metafile = true
 
 [[files]]
