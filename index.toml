@@ -81,6 +81,11 @@ hash = "bfefb0134a8a0a36d13e7370f56d99017feba7b759ecca019679a051f87ef079"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "d98e33b7326fa9f920adb6dc4e0004b899b967ea82ba6658b2c032e29f5dea95"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "1911b9f2bc9debccc66d7762932f66975f111695df46168fa80a628d31b0cbed"
 metafile = true
@@ -438,11 +443,6 @@ metafile = true
 [[files]]
 file = "mods/ice-and-fire-dragons.pw.toml"
 hash = "a4f79c31d5538ed845495af5e0e68b5d496fa40762b2c8816145d66138427a69"
-metafile = true
-
-[[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "c0452b2f93522355316fb71583e6d4bb3c44aeada9d20eb8fb7b71bc8d7114c0"
 metafile = true
 
 [[files]]
